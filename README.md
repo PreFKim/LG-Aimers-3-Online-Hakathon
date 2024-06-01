@@ -1,1 +1,1 @@
-"# LG-Aimers-3-Online-Hakathon" 
+# LG-Aimers-3-Online-Hakathon
